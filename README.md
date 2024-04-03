@@ -57,3 +57,5 @@ The dashboards should offer text alternatives, including large print and text-to
 Roll-out Plan:
 
 The stakeholders have requested a completed BI tool in six weeks.
+
+Tableau Viz : https://public.tableau.com/app/profile/calvin.sina.al.khazhaj/viz/GoogleFiber-EmpoweringCustomerServiceExcellenceADashboardSolutionforProactiveCallCenterManagement/Day1byMarketandType
