@@ -1,9 +1,9 @@
 BI Analyst:
-
 Calvin Sina Al Khazhaj
-Client/Sponsor:
 
+Client/Sponsor:
 Emma Santiage, Hiring Manager
+
 Purpose:
 
 The purpose of this project is to develop a dashboard to analyze fictional call center data, reflecting real-world scenarios. The primary objective is to provide the customer service team with insights into repeat caller behavior to enable proactive communication and efficient issue resolution. The dashboard aims to demonstrate an understanding of this objective by highlighting repeat caller volumes across various markets and problem categories. By leveraging these insights, stakeholders can strategize to reduce call volumes, enhance customer satisfaction, and optimize operational processes. Ultimately, the dashboard serves as a tool to empower the team in achieving these objectives effectively.
